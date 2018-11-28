@@ -4,8 +4,7 @@ Use Terraform to deploy a VPC, Security Group, ELB, keys, instances and S3 Bucke
 
 ### Prerequisites
 
-Hashicorp Terraform
-AWS Account
+Hashicorp Terraform and a AWS Account
 
 ### Note
 
